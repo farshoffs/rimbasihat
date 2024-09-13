@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rimbasihat/static/css/main.f855e6bc.css",
+    "main.js": "/rimbasihat/static/js/main.15d9ed4b.js",
+    "static/js/453.95148265.chunk.js": "/rimbasihat/static/js/453.95148265.chunk.js",
+    "static/media/logo.svg": "/rimbasihat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rimbasihat/index.html",
+    "main.f855e6bc.css.map": "/rimbasihat/static/css/main.f855e6bc.css.map",
+    "main.15d9ed4b.js.map": "/rimbasihat/static/js/main.15d9ed4b.js.map",
+    "453.95148265.chunk.js.map": "/rimbasihat/static/js/453.95148265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.15d9ed4b.js"
+  ]
+}
